@@ -1,12 +1,13 @@
 # responsiveDesign
 Este proyecto es puramente HTML + CSS, nada aún de Javascript
 
-La idea es tener una matriz de imagenes, con 5 columnas y n filas (donde 3 < n < 10) para que se vea de esta forma en una pantalla grande:
+La idea de este proyecto es tener una sección header donde habrá un titulo y una barra de busqueda: ![image](https://user-images.githubusercontent.com/26677733/208135402-85e54dc1-6c98-412b-92de-b2b0f8f9ae8f.png)
+
+Para la sección body, la idea es tener una matriz de imagenes, con 5 columnas y n filas (donde 3 < n < 10) para que se vea de esta forma en una pantalla grande:
 ![image](https://user-images.githubusercontent.com/26677733/196776126-ccf24f78-faf8-4694-baaf-e4981fec8d6c.png)
 
-Pero al momento de estar en pantalla pequeña, debe contar con 2 columnas y n filas, debe verse así:
-![image](https://user-images.githubusercontent.com/26677733/196776548-0fa23727-5e65-4342-9036-0b28b682db69.png)
+Las imagenes pueden contener lo que quieras, pero todas deben tener el mismo tamaño y estar espaciadas a una distancia equitativa.
 
-Las imagenes pueden contener lo que quieras, pero todas deben tener el mismo tamaño y estar espaciadas a una distancia equitativa
+Por último para el footer se debe poner la firma del autor y una imagen que los represente :)
 
 Muchos éxitos
