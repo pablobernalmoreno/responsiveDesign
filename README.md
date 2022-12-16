@@ -10,4 +10,9 @@ Las imagenes pueden contener lo que quieras, pero todas deben tener el mismo tam
 
 Por último para el footer se debe poner la firma del autor y una imagen que los represente :)
 
+Para el css se deben usar únicamente classes o ids, nada de inline
+
+### BONUS:
+Visitar este link y aprender: https://flexboxfroggy.com/#es
+
 Muchos éxitos
