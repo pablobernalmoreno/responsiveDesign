@@ -1,4 +1,4 @@
-# responsiveDesign
+# Reto
 Este proyecto es puramente HTML + CSS, nada aún de Javascript
 
 La idea de este proyecto es tener una sección header donde habrá un titulo y una barra de busqueda: ![image](https://user-images.githubusercontent.com/26677733/208135402-85e54dc1-6c98-412b-92de-b2b0f8f9ae8f.png)
