@@ -18,4 +18,23 @@ Toda la página debe poder decrecer o crecer conforme al tamaño de la pantalla 
 ### BONUS:
 Visitar este link y aprender: https://flexboxfroggy.com/#es
 
+Para el que quiera entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
+
+Para practicar quisiera lo siguiente:
+
+Las 2 primeras filas
+
+#### Fila 1
+  1. Toda la fila debe ser hija de un tag <section>
+  2. Todos los elementos hijos de un tag <section> deben ser de color azul
+  3. El primer hijo y segundo hijos deben ser de color amarillo
+  4. El ultimo hijo debe ser color rojo
+  
+#### Fila 2
+  1. Toda la fila debe ser hija de un tag <article>
+  2. Los hijos del tag article que sean pares, deben ser color rojo
+  3. Los hijos impares deben ser color verde
+  
+Para este reto bonus deben usar los selectores de css :)
+
 Muchos éxitos
