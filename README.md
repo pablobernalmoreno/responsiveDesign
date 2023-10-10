@@ -15,11 +15,6 @@ Para el css se deben usar únicamente classes o ids, nada de inline
 
 Toda la página debe poder decrecer o crecer conforme al tamaño de la pantalla (aprovechar flexbox y flex-wrap)
 
-### BONUS:
-Visitar este link y aprender: https://flexboxfroggy.com/#es
-
-Para el que quiera entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
-
 Para practicar quisiera lo siguiente:
 
 Las 2 primeras filas
@@ -34,7 +29,10 @@ Las 2 primeras filas
   1. Toda la fila debe ser hija de un tag article
   2. Los hijos del tag article que sean pares, deben ser color rojo
   3. Los hijos impares deben ser color verde
-  
-Para este reto bonus deben usar los selectores de css :)
+
+### BONUS:
+Visitar este link y aprender: https://flexboxfroggy.com/#es
+
+Para el que quiera entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
 
 Muchos éxitos
