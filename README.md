@@ -35,7 +35,7 @@ Las 2 primeras filas
 Para el que quiera entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
 
 Visitar los siguientes links para aprender css grid y flexbox:
-https://flexboxfroggy.com/
-https://cssgridgarden.com/
+  https://flexboxfroggy.com/
+  https://cssgridgarden.com/
 
 Muchos éxitos
