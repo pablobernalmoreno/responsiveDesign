@@ -31,8 +31,11 @@ Las 2 primeras filas
   3. Los hijos impares deben ser color verde
 
 ### BONUS:
-Visitar este link y aprender: https://flexboxfroggy.com/#es
 
 Para el que quiera entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
+
+Visitar los siguientes links para aprender css grid y flexbox:
+https://flexboxfroggy.com/
+https://cssgridgarden.com/
 
 Muchos éxitos
