@@ -32,7 +32,11 @@ Las 2 primeras filas
 
 ### BONUS:
 
-Para el que quiera entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
+Para entrar más a profundidad con el tema de los selectores, está este link: https://www.w3schools.com/cssref/css_selectors.php
+También están estos links para el tema de accesibilidad: https://developer.mozilla.org/es/docs/Learn/Accessibility/HTML y https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
+Luego tenemos el tema de los mixins y variables en css (en los procesadores realmente, css básico no cuenta con esto): https://sass-lang.com/documentation/variables/ y https://sass-lang.com/documentation/at-rules/mixin/
+Y por último el tema de animaciones: https://www.w3schools.com/css/css3_animations.asp
+
 
 Visitar los siguientes links para aprender css grid y flexbox:
   1. https://flexboxfroggy.com/
